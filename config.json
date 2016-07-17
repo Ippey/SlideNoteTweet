@@ -1,0 +1,7 @@
+{
+  "consumer_key" : "CONSUMER KEY",
+  "consumer_secret" : "CONSUMER KEY SECRET",
+  "access_token" : "ACCESS TOKEN",
+  "access_token_secret" : "ACCESS TOKEN SECRET",
+  "hash_tag" : "Set hash tag if you need."
+}
