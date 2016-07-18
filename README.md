@@ -4,7 +4,7 @@ This is an AppleScript that posts tweet slide note of Keynote file at realtime.
 ## Get started
 1. Type following commands on Terminal.
 ```
-git clone
+git clone git@github.com:Ippey/SlideNoteTweet.git
 cd SlideNoteTweet
 composer install
 open SlideNoteTweet.scpt
